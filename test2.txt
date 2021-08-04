@@ -1,1 +1,6 @@
+
 master主分支中test2中的测试文档
+
+测试文档2
+
+这master分支和fuben分支合并后的结果
